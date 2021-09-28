@@ -1,3 +1,4 @@
 Rencana belajar saya :
 - belajar numpy
 - belajar ajax
+- belajar mencuci baju
