@@ -1,5 +1,6 @@
 Rencana belajar saya :
-- belajar numpy
 - belajar ajax
 - belajar mencuci baju
 - belajar mencuci piring
+- belajar menghamburkan uang
+  > belanja semuanya
