@@ -1,0 +1,3 @@
+Rencana belajar saya :
+- belajar numpy
+- belajar ajax
